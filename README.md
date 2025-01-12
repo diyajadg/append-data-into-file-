@@ -13,3 +13,7 @@ Batch Duration : January 5th,2025 to February 5th,2025.
 Mentor Name : Neela Santosh
 
 Description : This requires online resources like you tube channels, google, chatgpt,etc. to resolve our queries. there will be no any classes to resolve our queries. we have to work in our free time. this ensures us to gain valuable experience through self-guided learning.
+
+output of the file : 
+
+(https://github.com/user-attachments/assets/1ed6dfe7-acc1-4c4c-ac81-21d0ff989595)
