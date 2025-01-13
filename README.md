@@ -21,3 +21,8 @@ output of the file ( Task 1 ) :
 output of the file ( Task 2 ) :
 
 (https://github.com/user-attachments/assets/7b042944-5f81-453d-aed8-fb5e6b21c892)
+
+outpt of the file ( task 3 ) :
+
+(https://github.com/user-attachments/assets/6b5861af-81e7-4632-8750-9290c7beb396)
+
